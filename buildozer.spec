@@ -3,7 +3,7 @@ title = FOOT V6.0
 package.name = footv6
 package.domain = org.pja
 source.dir = .
-source.include_exts = py
+source.include_exts = py,pem
 version = 6.0
 requirements = python3,kivy==2.3.0,openssl,certifi
 orientation = portrait
